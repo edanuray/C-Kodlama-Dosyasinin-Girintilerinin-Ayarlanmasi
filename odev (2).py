@@ -48,7 +48,6 @@ for i in range(0,len(stack._data)):
 with open('target.c', 'w') as file:
     file.write(data)
 
-
 reverse_file('source.c')   
 
 
