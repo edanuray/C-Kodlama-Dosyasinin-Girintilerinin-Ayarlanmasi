@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 14 13:56:38 2020
-@author: Fujitsu
-"""
+
 class ArrayStack:
   """LIFO Stack implementation using a Python list as underlying storage."""
 
