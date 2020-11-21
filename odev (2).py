@@ -26,7 +26,6 @@ with open('source.c','r+', encoding='utf-8') as file:
     for i in file:
         stack.push(i.rstrip('\n'))
 
-
 data = ''
 boslukSayisi = 0
 bosluk = ''
